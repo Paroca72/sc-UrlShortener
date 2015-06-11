@@ -10,8 +10,15 @@ In this case i used only almost exclusively for interface the application with t
 The application is responsive and i used Boostrap for manage layout.
 Its a very small application but i tried to make a good structure to thinking for a future implementation.
 
+# Behavior
+Insert the long URL in place and press create button.
+ENJOY!
 
 # Installation
 The web application wrote with VS2013.
 So need to install all file, open project solution, build and play.
 Remember to assign to folders "public" and "mdb-database" the read/write/cretion permissions.
+
+# Administration
+user: admin
+psw: nimda

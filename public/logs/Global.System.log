@@ -1,0 +1,192 @@
+
+08/06/2015 15:13:46 -> Application is started
+08/06/2015 15:16:16 -> Threads is stopped
+08/06/2015 15:16:16 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 15:16:21 -> Application is started
+08/06/2015 15:16:24 -> Threads is stopped
+08/06/2015 15:16:24 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 15:19:08 -> Application is started
+08/06/2015 15:23:12 -> Threads is stopped
+08/06/2015 15:23:12 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 15:23:17 -> Application is started
+08/06/2015 15:24:41 -> Threads is stopped
+08/06/2015 15:24:41 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 15:30:08 -> Application is started
+08/06/2015 15:30:27 -> Threads is stopped
+08/06/2015 15:30:27 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 15:30:47 -> Application is started
+08/06/2015 16:57:57 -> Threads is stopped
+08/06/2015 16:57:57 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 16:58:57 -> Application is started
+08/06/2015 17:00:09 -> Threads is stopped
+08/06/2015 17:00:09 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 17:00:16 -> Application is started
+08/06/2015 17:00:58 -> Threads is stopped
+08/06/2015 17:00:58 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 17:03:28 -> Application is started
+08/06/2015 17:35:53 -> Threads is stopped
+08/06/2015 17:35:53 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:20:14 -> Application is started
+08/06/2015 18:21:03 -> Threads is stopped
+08/06/2015 18:21:03 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:22:28 -> Application is started
+08/06/2015 18:24:52 -> Threads is stopped
+08/06/2015 18:24:52 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:25:44 -> Application is started
+08/06/2015 18:26:16 -> Threads is stopped
+08/06/2015 18:26:16 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:27:12 -> Application is started
+08/06/2015 18:30:36 -> Threads is stopped
+08/06/2015 18:30:36 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:30:45 -> Application is started
+08/06/2015 18:31:42 -> Threads is stopped
+08/06/2015 18:31:42 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:31:54 -> Application is started
+08/06/2015 18:32:36 -> Threads is stopped
+08/06/2015 18:32:37 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 18:33:08 -> Application is started
+08/06/2015 19:30:09 -> Threads is stopped
+08/06/2015 19:30:09 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 19:32:13 -> Application is started
+08/06/2015 19:39:53 -> Threads is stopped
+08/06/2015 19:39:53 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 19:40:37 -> Application is started
+08/06/2015 19:43:00 -> Threads is stopped
+08/06/2015 19:43:00 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 19:44:59 -> Application is started
+08/06/2015 20:01:27 -> Threads is stopped
+08/06/2015 20:01:27 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 20:44:17 -> Application is started
+08/06/2015 21:04:18 -> Application is started
+08/06/2015 21:05:10 -> Threads is stopped
+08/06/2015 21:05:10 -> Compact and repair DB
+08/06/2015 21:05:10 -> Application is stopped
+08/06/2015 21:12:51 -> Application is started
+08/06/2015 21:13:16 -> Threads is stopped
+08/06/2015 21:13:16 -> Compact and repair DB
+08/06/2015 21:13:16 -> Application is stopped
+08/06/2015 21:13:38 -> Application is started
+08/06/2015 21:14:35 -> Threads is stopped
+08/06/2015 21:14:35 -> Compact and repair DB
+08/06/2015 21:14:35 -> Application is stopped
+08/06/2015 21:14:58 -> Application is started
+08/06/2015 21:15:04 -> Threads is stopped
+08/06/2015 21:15:04 -> Compact and repair DB
+08/06/2015 21:15:04 -> Application is stopped
+08/06/2015 21:16:20 -> Application is started
+08/06/2015 21:16:51 -> Threads is stopped
+08/06/2015 21:16:51 -> Compact and repair DB
+08/06/2015 21:16:51 -> Application is stopped
+08/06/2015 21:17:11 -> Application is started
+08/06/2015 21:17:42 -> Threads is stopped
+08/06/2015 21:17:42 -> Compact and repair DB
+08/06/2015 21:17:42 -> Application is stopped
+08/06/2015 21:17:55 -> Application is started
+08/06/2015 21:26:01 -> Threads is stopped
+08/06/2015 21:26:01 -> Compact and repair DB
+08/06/2015 21:26:01 -> Application is stopped
+08/06/2015 21:26:14 -> Application is started
+08/06/2015 21:27:56 -> Threads is stopped
+08/06/2015 21:27:56 -> Compact and repair DB
+08/06/2015 21:27:56 -> Application is stopped
+08/06/2015 21:28:06 -> Application is started
+08/06/2015 21:31:44 -> Threads is stopped
+08/06/2015 21:31:44 -> Compact and repair DB
+08/06/2015 21:31:44 -> Application is stopped
+08/06/2015 21:31:52 -> Application is started
+08/06/2015 21:38:56 -> Threads is stopped
+08/06/2015 21:38:56 -> Compact and repair DB
+08/06/2015 21:38:56 -> Application is stopped
+08/06/2015 21:39:03 -> Application is started
+08/06/2015 21:51:55 -> Threads is stopped
+08/06/2015 21:51:55 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 21:52:00 -> Application is started
+08/06/2015 21:53:29 -> Threads is stopped
+08/06/2015 21:53:29 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 21:53:41 -> Application is started
+08/06/2015 21:53:59 -> Threads is stopped
+08/06/2015 21:53:59 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 21:54:23 -> Application is started
+08/06/2015 21:56:09 -> Threads is stopped
+08/06/2015 21:56:09 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 21:56:22 -> Application is started
+08/06/2015 21:57:47 -> Threads is stopped
+08/06/2015 21:57:47 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 21:58:11 -> Application is started
+08/06/2015 22:03:00 -> Threads is stopped
+08/06/2015 22:03:00 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:03:06 -> Application is started
+08/06/2015 22:03:11 -> Threads is stopped
+08/06/2015 22:03:11 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:05:18 -> Application is started
+08/06/2015 22:07:14 -> Threads is stopped
+08/06/2015 22:07:14 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:07:40 -> Application is started
+08/06/2015 22:08:14 -> Threads is stopped
+08/06/2015 22:08:14 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:10:31 -> Application is started
+08/06/2015 22:10:33 -> Threads is stopped
+08/06/2015 22:10:33 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:11:59 -> Application is started
+08/06/2015 22:14:05 -> Threads is stopped
+08/06/2015 22:14:05 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:14:28 -> Application is started
+08/06/2015 22:15:49 -> Threads is stopped
+08/06/2015 22:15:49 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:17:12 -> Application is started
+08/06/2015 22:17:27 -> Threads is stopped
+08/06/2015 22:17:27 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:17:33 -> Application is started
+08/06/2015 22:19:17 -> Threads is stopped
+08/06/2015 22:19:17 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:19:36 -> Application is started
+08/06/2015 22:22:26 -> Threads is stopped
+08/06/2015 22:22:26 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:22:32 -> Application is started
+08/06/2015 22:25:54 -> Threads is stopped
+08/06/2015 22:25:54 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 22:50:27 -> Application is started
+08/06/2015 23:02:09 -> Threads is stopped
+08/06/2015 23:02:09 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:02:16 -> Application is started
+08/06/2015 23:02:36 -> Threads is stopped
+08/06/2015 23:02:36 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:03:03 -> Application is started
+08/06/2015 23:03:41 -> Threads is stopped
+08/06/2015 23:03:41 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:07:00 -> Application is started
+08/06/2015 23:08:03 -> Threads is stopped
+08/06/2015 23:08:04 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:08:19 -> Application is started
+08/06/2015 23:08:34 -> Threads is stopped
+08/06/2015 23:08:34 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:21:31 -> Application is started
+08/06/2015 23:23:14 -> Threads is stopped
+08/06/2015 23:23:14 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:23:28 -> Application is started
+08/06/2015 23:26:28 -> Threads is stopped
+08/06/2015 23:26:28 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:29:08 -> Application is started
+08/06/2015 23:32:13 -> Threads is stopped
+08/06/2015 23:32:13 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:32:29 -> Application is started
+08/06/2015 23:34:43 -> Threads is stopped
+08/06/2015 23:34:44 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:35:22 -> Application is started
+08/06/2015 23:37:35 -> Threads is stopped
+08/06/2015 23:37:35 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:37:56 -> Application is started
+08/06/2015 23:39:45 -> Threads is stopped
+08/06/2015 23:39:45 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:39:51 -> Application is started
+08/06/2015 23:40:41 -> Threads is stopped
+08/06/2015 23:40:41 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:40:51 -> Application is started
+08/06/2015 23:42:12 -> Threads is stopped
+08/06/2015 23:42:12 -> Application error: Cast non valido dalla stringa "Database già aperto in modo escl" al tipo 'Boolean'.
+08/06/2015 23:42:21 -> Application is started
+09/06/2015 01:02:11 -> Application is started
+09/06/2015 01:03:38 -> Threads is stopped
+09/06/2015 01:03:38 -> Compact and repair DB
+09/06/2015 01:03:38 -> Application is stopped
+09/06/2015 01:04:05 -> Application is started

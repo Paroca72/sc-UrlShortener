@@ -14,6 +14,8 @@ Its a very small application but i tried to make a good structure to thinking fo
 Insert the long URL in place and press create button.
 ENJOY!
 
+The application show a preview of original site, so maybe you after create you must wait few seconds to see the result.
+
 # Installation
 The web application wrote with VS2013.
 So need to install all file, open project solution, build and play.

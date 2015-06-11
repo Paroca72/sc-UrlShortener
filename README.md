@@ -1,4 +1,4 @@
-# SCURLShorterer
+# scURL Shorterer
 This is a very (very very) simple build of a URL Shorterer.
 
 The solution contain simple a public area for insert/create a new URL and a private area for insert/update/delete new and existing URL.

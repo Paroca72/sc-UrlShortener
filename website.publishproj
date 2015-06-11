@@ -18,10 +18,10 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{7cc78178-48a4-4c1f-a6cc-0f8b51e2e3f4}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/Meccanografica Website</SourceWebVirtualPath>
+    <SourceWebVirtualPath>/scURL Shortener</SourceWebVirtualPath>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
-    <SourceWebProject>http://localhost:61826</SourceWebProject>
-    <SourceWebMetabasePath>/IISExpress/7.5/LM/W3SVC/5/ROOT</SourceWebMetabasePath>
+    <SourceWebProject>http://localhost:52427</SourceWebProject>
+    <SourceWebMetabasePath>/IISExpress/7.5/LM/W3SVC/8/ROOT</SourceWebMetabasePath>
   </PropertyGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -10,7 +10,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>SCURL Shortener</title>
+    <title>scURL Shortener</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet" />
@@ -41,7 +41,7 @@
         <!-- Header -->
         <header>
             <div class="container text-center">
-                <h1>SCURL Shortener</h1>
+                <h1>scURL Shortener</h1>
             </div>
         </header>
 

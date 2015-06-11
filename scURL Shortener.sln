@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Url Shortener Website", "http://localhost:54595", "{59A5FE94-678B-4EA2-9A93-E4058CE38C34}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "scURL Shortener", "http://localhost:52427", "{8841A917-DE30-4FF2-937E-712F3C84E844}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_54595"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Siti Internet\URL Shortener\Url Shortener Website\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54595\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52427"
+		Debug.AspNetCompiler.PhysicalPath = "..\scURL Shortener\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52427\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_54595"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Siti Internet\URL Shortener\Url Shortener Website\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54595\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52427"
+		Release.AspNetCompiler.PhysicalPath = "..\scURL Shortener\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52427\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\..\..\Desktop\Siti Internet\URL Shortener\Url Shortener Website\"
+		SlnRelativePath = "..\scURL Shortener\"
 	EndProjectSection
 EndProject
 Global
@@ -29,8 +29,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59A5FE94-678B-4EA2-9A93-E4058CE38C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59A5FE94-678B-4EA2-9A93-E4058CE38C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8841A917-DE30-4FF2-937E-712F3C84E844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8841A917-DE30-4FF2-937E-712F3C84E844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

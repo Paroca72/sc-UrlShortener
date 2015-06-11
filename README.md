@@ -20,5 +20,5 @@ So need to install all file, open project solution, build and play.
 Remember to assign to folders "public" and "mdb-database" the read/write/cretion permissions.
 
 # Administration
-user: admin
-psw: nimda
+- user: admin
+- psw: nimda
